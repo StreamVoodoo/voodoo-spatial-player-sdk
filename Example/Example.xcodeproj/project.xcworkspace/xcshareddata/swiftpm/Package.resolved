@@ -1,0 +1,15 @@
+{
+  "originHash" : "faa3472ec2aa41f90d9a87d2af7c278197e11cc3fe2034ea02a94ca33383921a",
+  "pins" : [
+    {
+      "identity" : "voodoo-spatial-player-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/StreamVoodoo/voodoo-spatial-player-sdk",
+      "state" : {
+        "revision" : "98f1d47c087b263cadc55f2cc627dae82a1f47aa",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
